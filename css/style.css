@@ -1,0 +1,190 @@
+.div1
+{
+    width: 240px;
+    height: 160px;
+  background-image: url(../images/photo.jpg);
+  background-repeat: no-repeat;
+    animation-name: change;
+    animation-duration: 2s;
+    position: relative;
+}
+@keyframes change
+{
+    0%{
+      top: 0;
+      left:0;
+    }
+    100%
+    {
+        top: 0;
+        left: 1100px;
+    }
+}
+.div2
+{
+    width: 240px;
+    height: 160px;
+background-image: url(../images/car2.png);
+background-repeat: no-repeat;
+    animation-name: example2;
+    animation-duration: 2s;
+    animation-delay: 2s;
+    position: relative;
+    margin-left: auto;
+}
+@keyframes example2
+{
+    0%{
+      top: 0;
+      right: 0;
+    }
+    100%
+    {
+        top: 0;
+        right: 1100px;
+    }
+}
+.div3
+{        width: 240px;
+    height: 160px;
+  background-image: url(../images/photo.jpg);
+  background-repeat: no-repeat;
+    animation-name:example3;
+    animation-duration: 2s;
+    animation-delay: 4s;
+    position: relative;
+}
+@keyframes example3
+{
+    0%{
+      top: 0;
+      left:0;
+    }
+    100%
+    {
+        top: 0;
+        left: 1100px;
+    }
+}
+.div4
+
+    {
+        width: 240px;
+        height: 160px;
+    background-image: url(../images/car2.png);
+    background-repeat: no-repeat;
+    animation-name: example4;
+    animation-duration: 2s;
+    animation-delay: 6s;
+    position: relative;
+    margin-left: auto;
+}
+@keyframes example4
+{
+    0%{
+      top: 0;
+      right: 0;
+    }
+    100%
+    {
+        top: 0;
+        right: 1100px;
+    }
+}
+.div5
+{
+    width: 240px;
+    height: 160px;
+  background-image: url(../images/photo.jpg);
+  background-repeat: no-repeat;
+    animation-name: example5;
+    animation-duration: 2s;
+    animation-delay: 8s;
+    position: relative;
+}
+@keyframes example5
+{
+    0%{
+      top: 0;
+      left:0;
+    }
+    100%
+    {
+        top: 0;
+        left: 1100px;
+    }
+}
+.div6
+
+    {
+        width: 240px;
+        height: 160px;
+    background-image: url(../images/car2.png);
+    background-repeat: no-repeat;
+    animation-name: example6;
+    animation-duration: 2s;
+    animation-delay: 10s;
+    position: relative;
+    margin-left: auto;
+}
+@keyframes example6
+{
+    0%{
+      top: 0px;
+      right: 0;
+    }
+    100%
+    {
+        top: 0;
+        right: 1100px;
+    }
+}
+
+.div7
+{
+    width: 240px;
+    height: 160px;
+  background-image: url(../images/photo.jpg);
+  background-repeat: no-repeat;
+    animation-name: example7;
+    animation-duration: 2s;
+    animation-delay: 12s;
+    position: relative;
+  
+}
+@keyframes example7
+{
+    0%{
+      top: 0px;
+      left: 0;
+    }
+    100%
+    {
+        top: 0;
+        left: 1100px;
+    }
+}
+.div8
+{
+    width: 240px;
+    height: 160px;
+background-image: url(../images/car2.png);
+background-repeat: no-repeat;
+    animation-name: example8;
+    animation-duration: 2s;
+    animation-delay: 14s;
+    position: relative;
+    margin-left: auto;
+}
+@keyframes example8
+{
+    0%{
+      top: 0px;
+      right: 0;
+    }
+    100%
+    {
+        top: 0;
+        right: 1100px;
+    }
+}
